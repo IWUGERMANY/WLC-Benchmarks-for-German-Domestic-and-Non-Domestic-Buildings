@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the accompanying paper and this repository."
+title: "WLC Benchmarks for German Domestic and Non-Domestic Buildings"
+type: dataset
+authors:
+  - family-names: "Behem"
+  - family-names: "Bischof"
+year: 2026
+license: "CC-BY-4.0"
+repository-code: "https://github.com/IWUGERMANY/WLC-Benchmarks-for-German-Domestic-and-Non-Domestic-Buildings"
+url: "https://github.com/IWUGERMANY/WLC-Benchmarks-for-German-Domestic-and-Non-Domestic-Buildings"
+abstract: "Dataset accompanying the paper 'Whole-Life-Cycle Benchmarks for Domestic and Non-Domestic Buildings: A Method for Definition and Communication Applied to the German Building Stock'."
+keywords:
+  - "whole-life cycle"
+  - "building benchmarks"
+  - "embodied carbon"
+  - "operational emissions"
+  - "German building stock"
+preferred-citation:
+  type: article
+  title: "Whole-Life-Cycle Benchmarks for Domestic and Non-Domestic Buildings: A Method for Definition and Communication Applied to the German Building Stock"
+  authors:
+    - family-names: "Behem"
+    - family-names: "Bischof"
+  year: 2026
+  notes: "Paper in copyediting; final publication details and DOI to be added after publication."
