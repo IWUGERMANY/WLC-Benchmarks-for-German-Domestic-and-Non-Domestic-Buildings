@@ -5,6 +5,8 @@ Dataset accompanying the paper:
 **Whole-Life-Cycle Benchmarks for Domestic and Non-Domestic Buildings: A Method for Definition and Communication Applied to the German Building Stock**  
 Behem and Bischof, 2026
 
+The paper was written for the [eceee Summer Study 2026](https://www.eceee.org/summerstudy/).
+
 ## Repository Status
 
 This repository is a dataset release accompanying a paper currently in copyediting. The workbook is released as the authoritative dataset artifact. Values, wording, citation details, and metadata may still be updated after the final publication.
@@ -55,4 +57,4 @@ For more detail, see:
 
 ## License
 
-Repository documentation and the released benchmark workbook are provided under CC BY 4.0 unless otherwise noted. Third-party source datasets and publications remain under their original rights and are not redistributed here.
+Repository documentation and the released benchmark workbook are provided under the MIT License amended for datasets; see [LICENSE](LICENSE). Third-party source datasets and publications remain under their original rights and are not redistributed here.
